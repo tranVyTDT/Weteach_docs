@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T15:09:41.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oJiW8JivSjSaL--rndOj" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T15:10:24.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q6_4vUqur9e2LTBpFv2N" version="21.1.7" type="github" pages="2">
   <diagram id="4R4UzERNiVHyKOqKWShv" name="model - ý tưởng luồn">
     <mxGraphModel dx="2580" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -468,22 +468,22 @@
           <mxGeometry x="63" y="442" width="330" height="380" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-8" value="Personal Information&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-3">
-          <mxGeometry x="93" y="39" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-9" value="Posts Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-3">
-          <mxGeometry x="93" y="119" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-10" value="Certification management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-3">
-          <mxGeometry x="93" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="211" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-11" value="Reviews management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-3">
-          <mxGeometry x="93" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="291" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-4" value="Teacher to learner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="442" width="330" height="370" as="geometry" />
+          <mxGeometry x="453" y="442" width="330" height="178" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-5" value="Personal Information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-4">
-          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="97" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
