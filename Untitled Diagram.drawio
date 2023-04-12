@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T15:08:59.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qRaXBlTi8ZKR3A8f6DbW" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T15:09:22.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cHfL3kjFGzT6297f-p2e" version="21.1.7" type="github" pages="2">
   <diagram id="4R4UzERNiVHyKOqKWShv" name="model - ý tưởng luồn">
     <mxGraphModel dx="2580" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HMMMU3HcAMlLr4I3amXF-1" value="Learner to self" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="330" height="320" as="geometry" />
+          <mxGeometry x="63" y="82" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-6" value="Personal Information&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-1">
           <mxGeometry x="90" y="70" width="120" height="60" as="geometry" />
@@ -453,7 +453,7 @@
           <mxGeometry x="90" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-2" value="All to teacher" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="10" width="330" height="320" as="geometry" />
+          <mxGeometry x="453" y="82" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-14" value="Personal Information&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-2">
           <mxGeometry x="105" y="60" width="120" height="60" as="geometry" />
@@ -465,7 +465,7 @@
           <mxGeometry x="105" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-3" value="Teacher to self" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="370" width="330" height="380" as="geometry" />
+          <mxGeometry x="63" y="442" width="330" height="380" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-8" value="Personal Information&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-3">
           <mxGeometry x="93" y="39" width="120" height="60" as="geometry" />
@@ -480,7 +480,7 @@
           <mxGeometry x="93" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-4" value="Teacher to learner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="330" height="370" as="geometry" />
+          <mxGeometry x="453" y="442" width="330" height="370" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-5" value="Personal Information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-4">
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
