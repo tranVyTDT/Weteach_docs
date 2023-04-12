@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T14:57:08.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="fx_dOFKq4OTGUb8RwRjk" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T14:57:19.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Q8Ckz4g4LlfGsQFGf8QI" version="21.1.7" type="github" pages="2">
   <diagram id="4R4UzERNiVHyKOqKWShv" name="model - ý tưởng luồn">
     <mxGraphModel dx="2580" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
         <mxCell id="HMMMU3HcAMlLr4I3amXF-3" value="Teacher to teacher" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="370" width="330" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="HMMMU3HcAMlLr4I3amXF-4" value="Teacher to teacher" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HMMMU3HcAMlLr4I3amXF-4" value="Teacher to learner" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="370" width="330" height="320" as="geometry" />
         </mxCell>
       </root>
