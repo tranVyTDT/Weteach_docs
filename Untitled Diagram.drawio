@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T15:10:24.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="q6_4vUqur9e2LTBpFv2N" version="21.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-12T15:10:38.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WuorMmv_4YiwyzSXmkIL" version="21.1.7" type="github" pages="2">
   <diagram id="4R4UzERNiVHyKOqKWShv" name="model - ý tưởng luồn">
     <mxGraphModel dx="2580" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -447,10 +447,10 @@
           <mxGeometry x="63" y="82" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-6" value="Personal Information&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-1">
-          <mxGeometry x="90" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-7" value="Posts Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HMMMU3HcAMlLr4I3amXF-1">
-          <mxGeometry x="90" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMMMU3HcAMlLr4I3amXF-2" value="All to teacher" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="453" y="82" width="330" height="320" as="geometry" />
